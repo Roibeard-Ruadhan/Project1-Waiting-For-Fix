@@ -1,0 +1,17 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.red {
+    background: tomato;
+    height: 400px;
+}
+
+.img-fluid {
+    width: 100%;
+}
+
+.sm-pad {
+    padding-bottom: 2px;
+}
